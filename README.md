@@ -1,0 +1,3 @@
+# Pattern-Seperation-using-Logistic-Regression
+Used cvxpy to implement Logistic Regression. On a Real World Dataset and a group of randomly produced points, binary classification was carried out.
+This PDF includes the mathematical justification for using convex optimization to resolve the Logistic Regression Problem as well as the theory underlying logistic regression. It has code examples for creating a logistic regression model with cvxpy and classifying a set of randomly generated points linearly. We also use this on a dataset from the actual world that deals with predicting heart disease based on several variables like blood pressure and cholesterol.
